@@ -1,5 +1,23 @@
-txt
-pdf
-tmp
-ods
-bin
+#
+# .gitignore
+#
+
+## BACKUP & TEMPORARY FILES ##
+
+*~
+*.bak
+*.tmp
+
+
+## DOCUMENTS ##
+
+*.txt
+*.pdf
+*.ods
+*.doc
+*.docx
+
+
+## BINARY DATA ##
+
+*.bin
